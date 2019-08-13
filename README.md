@@ -6,7 +6,7 @@ I wanted to see what real world scenarios I was able to create.
 
 Python Projects
 
-1) Data Scraper (Get Data from a website and export it to a csv file)
+1) Data Scraper (Get Data from a website using a filtered selection and print it to screen)
 2) Filter Data (Get Data and filter it using Reg Expressions)
 3) Photo Album Scraper (Download Images from a website from an album and sort them out via Directories)
 4) Website Url Scanner (Scan a list of websites if they are avaliable , found out the technologies they are using to create the website and export it to a csv file)
