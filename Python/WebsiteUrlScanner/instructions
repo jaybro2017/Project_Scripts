@@ -1,0 +1,13 @@
+pip3.6
+
+install it using
+
+curl https://bootstrap.pypa.io/get-pip.py|sudo python3.6
+
+after that
+
+uninstall lxml
+
+pip3.6 uninstall lxml
+
+pip3.6 install lxml ( will repair library lxml )
